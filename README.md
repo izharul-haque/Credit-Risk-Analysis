@@ -1,4 +1,5 @@
 # Credit-Risk-Analysis
+Detailed EDA done using python libraries pandas, numpy, matplotlib, seaborn and Scipy.
 
 ![image](https://user-images.githubusercontent.com/76435558/133157941-972d531c-c96e-4da6-9e3c-c40de0ee1cd7.png)
 
